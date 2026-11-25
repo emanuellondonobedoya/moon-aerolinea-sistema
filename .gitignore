@@ -1,0 +1,8 @@
+# Datos operativos y secretos: nunca al repositorio
+data/
+*.db
+*.db-wal
+*.db-shm
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
